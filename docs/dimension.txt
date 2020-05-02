@@ -1,0 +1,11 @@
+SUD
+650 x 100
+
+NORD
+650 x 200
+
+Clavier Panneau ou il y a les bouton
+480 x 172
+
+PanneauInfo Nord
+480 x 200
