@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JeuxGrille"/>
+	<classpathentry kind="src" path="Composants"/>
+	<classpathentry kind="src" path="Ecouteur"/>
+	<classpathentry kind="src" path="Configuration"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.4"/>
+	<classpathentry kind="lib" path="/Configuration/bin"/>
+	<classpathentry kind="lib" path="/GrilleG/bin" sourcepath="/GrilleG/GrilleG"/>
+	<classpathentry kind="lib" path="/PanneauG/bin"/>
+	<classpathentry kind="lib" path="/Users/Trasheur/Documents/Docs/IUT/Stage/Workspace/Library/jdom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

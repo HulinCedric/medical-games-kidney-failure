@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 16 19:17:39 CEST 2010
+onejar.license.required=true
+manifest.classpath=../Library/jdom.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MotsCroises.jar
+manifest.mergeall=true
+manifest.mainclass=MotsCroises
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|jdom.jar>
+includes=

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  
+    <ArrierePlan>WHITE</ArrierePlan>
+    <AvantPlan>YELLOW</AvantPlan>
+    <Lignes>1</Lignes>
+    <Colonnes>7</Colonnes>
+    <Maillage>false</Maillage>
+	<NombreImages>7</NombreImages>
+    <Police>
+      <Famille>Times Roman</Famille>
+      <Style>Gras</Style>
+      <Taille>42</Taille>
+    </Police>
+  
+</Configuration>
+

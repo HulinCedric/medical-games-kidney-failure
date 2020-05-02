@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 16 19:17:05 CEST 2010
+onejar.license.required=true
+manifest.classpath=../Library/jdom.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MotDeLaFin.jar
+manifest.mergeall=true
+manifest.mainclass=MotDeLaFin
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|jdom.jar>
+includes=

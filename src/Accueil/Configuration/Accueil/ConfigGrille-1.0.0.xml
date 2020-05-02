@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  
+    <ArrierePlan>WHITE</ArrierePlan>
+    <AvantPlan>WHITE</AvantPlan>
+    <Lignes>10</Lignes>
+    <Colonnes>15</Colonnes>
+    <Maillage>false</Maillage>
+    <Police>
+      <Famille>Times Roman</Famille>
+      <Style>Gras</Style>
+      <Taille>22</Taille>
+    </Police>
+  
+</Configuration>
+

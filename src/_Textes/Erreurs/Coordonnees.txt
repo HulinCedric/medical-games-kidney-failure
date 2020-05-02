@@ -1,0 +1,2 @@
+GrilleG - obtenirCellule
+Les coordonnees de la cellules sont hors grille

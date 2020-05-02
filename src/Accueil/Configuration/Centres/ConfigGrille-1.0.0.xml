@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  
+    <ArrierePlan>WHITE</ArrierePlan>
+    <AvantPlan>BLACK</AvantPlan>
+    <Lignes>32</Lignes>
+    <Colonnes>35</Colonnes>
+  
+</Configuration>
+

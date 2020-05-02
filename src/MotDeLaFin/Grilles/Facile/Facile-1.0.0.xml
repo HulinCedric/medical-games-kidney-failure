@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  <ArrierePlan>WHITE</ArrierePlan>
+  <AvantPlan>BLACK</AvantPlan>
+  <Lignes>5</Lignes>
+  <Colonnes>5</Colonnes>
+  <Maillage>false</Maillage>
+  <Style>Defaut</Style>
+  <Police>
+    <Famille>Comic sans MS</Famille>
+    <Style>Gras</Style>
+    <Taille>30</Taille>
+  </Police>
+</Configuration>
+

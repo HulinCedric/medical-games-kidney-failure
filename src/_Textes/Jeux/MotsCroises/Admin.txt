@@ -1,0 +1,1 @@
+Créer votre grille avec le clavier virtuel et remplissez le panneau d'informations avec les définissions. <BR>Enfin, appuyer sur le bouton Enregistrer pour sauvegarger votre grille.

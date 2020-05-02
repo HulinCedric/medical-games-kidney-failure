@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--- 
+
+Couleurs possibles : 
+	BLACK / WHITE / BLUE / GREEN / ORANGE / PINK / RED /
+	DARK_GRAY / CYAN / GRAY / LIGHT_GRAY / MAGENTA / YELLOW
+
+Styles de police : 
+	Classique / Gras / Italique
+	
+Polices possibles :
+	Times Roman
+	Comic Sans MS
+	Arial
+	
+-->
+
+<Configuration>
+  <ArrierePlan>BLACK</ArrierePlan>
+  <LedOn>YELLOW</LedOn>
+  <LedOff>DARK_GRAY</LedOff>
+</Configuration>
+

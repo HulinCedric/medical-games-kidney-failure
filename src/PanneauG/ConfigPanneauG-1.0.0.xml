@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <ArrierePlan>BLUE</ArrierePlan>
+    <Avantplan>BLACK</Avantplan>
+    <Police>
+      <Famille>Times Roman</Famille>
+      <Style>Gras</Style>
+      <Taille>16</Taille>
+    </Police>
+</Configuration>
+

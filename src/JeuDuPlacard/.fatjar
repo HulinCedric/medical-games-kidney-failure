@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 16 19:15:31 CEST 2010
+onejar.license.required=true
+manifest.classpath=../Library/jdom.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JeuDuPlacard.jar
+manifest.mergeall=true
+manifest.mainclass=JeuDuPlacard
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|jdom.jar>
+includes=

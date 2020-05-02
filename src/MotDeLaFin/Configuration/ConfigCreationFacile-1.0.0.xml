@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--- 
+
+Couleurs possibles : 
+	BLACK / WHITE / BLUE / GREEN / ORANGE / PINK / RED /
+	DARK_GRAY / CYAN / GRAY / LIGHT_GRAY / MAGENTA / YELLOW
+
+Styles de police : 
+	Classique / Gras / Italique
+	
+Polices possibles :
+	Times Roman
+	Comic Sans MS
+	Arial
+	
+-->
+
+<Configuration>
+  <ArrierePlan>WHITE</ArrierePlan>
+  <AvantPlan>BLACK</AvantPlan>
+  <Lignes>5</Lignes>
+  <Colonnes>5</Colonnes>
+  <Police>
+    <Famille>Comic sans MS</Famille>
+    <Style>Gras</Style>
+    <Taille>30</Taille>
+  </Police>
+</Configuration>
+

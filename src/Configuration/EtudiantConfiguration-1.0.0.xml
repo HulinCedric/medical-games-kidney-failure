@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+  <ArrierePlan>Color.white</ArrierePlan>
+  <AvantPlan>Color.gray</AvantPlan>
+  <Police>Times Roman, Font.BOLD, 16</Police>
+</Configuration>
+

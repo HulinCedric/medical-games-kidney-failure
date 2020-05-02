@@ -1,0 +1,3 @@
+Le but du jeu est de retrouver tous les mots de la grille grâce aux définitions données dans le panneau de droite.
+Aidez vous du clavier virtuel pour saisir vos mots.
+Bonne chance !

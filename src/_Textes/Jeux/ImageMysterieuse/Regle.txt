@@ -1,0 +1,4 @@
+Le but du jeu est de trouver le nom de l'image cachée.
+Decouvre l'image en cliquant sur les carrés noirs puis selectionne un nom d'image dans la liste de droite.
+
+Bonne chance !
