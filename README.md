@@ -8,3 +8,7 @@ Developed during an internship for Centre Hospitalier Universitaire de Nice.
 
 # Entry point
 Acceuil
+
+# Distribution
+Distributed inside usb-key
+Launcher in dist folder
