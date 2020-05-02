@@ -1,0 +1,4 @@
+[autorun]
+open=Accueil\run.bat
+icon=Banana.ico
+label=Jeux
